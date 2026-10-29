@@ -1,5 +1,5 @@
 # SuPan
-###(Screen Supervisor / Supervisor de pantalla) 
+### (Screen Supervisor / Supervisor de pantalla) 
 
 Version / Versión: "1.0.0"
 Status / Estado: Initial release / Versión inicial
